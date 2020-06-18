@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MexicanFoodNutritionCalculator", "MexicanFoodNutritionCalculator\MexicanFoodNutritionCalculator.csproj", "{524AD195-3DD9-4C35-B6C1-54580CCFC5E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{524AD195-3DD9-4C35-B6C1-54580CCFC5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524AD195-3DD9-4C35-B6C1-54580CCFC5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524AD195-3DD9-4C35-B6C1-54580CCFC5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524AD195-3DD9-4C35-B6C1-54580CCFC5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00339A03-AC15-4C39-94DB-4F1FD070D7F6}
+	EndGlobalSection
+EndGlobal
